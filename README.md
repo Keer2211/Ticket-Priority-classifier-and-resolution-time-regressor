@@ -1,5 +1,11 @@
 # Customer Support AI
 
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/aeb92292-8078-446c-8ce7-1ef182651eb3" />
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/296b3387-4d6c-4e8f-8aed-3c62946baa17" />
+
+![Uploading image.png…]()
+
+
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 [![Framework](https://img.shields.io/badge/UI-Streamlit-red.svg)](https://streamlit.io/)
 [![NLP](https://img.shields.io/badge/NLP-NLTK%20%7C%20VADER-green.svg)](https://www.nltk.org/)
