@@ -1,0 +1,12 @@
+# Virtual environment
+venv/
+
+# Python cache & compiled files
+__pycache__/
+*.pyc
+
+# Environment files / credentials
+.env
+
+# HTML reports (if auto-generated)
+customer_support_eda_report.html
